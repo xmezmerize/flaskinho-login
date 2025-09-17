@@ -4,4 +4,4 @@
 - source .venv/bin/activate
 
 # para rodar o servidor
-> poetry run flask --app app run --debug
+- poetry run flask --app app run --debug
