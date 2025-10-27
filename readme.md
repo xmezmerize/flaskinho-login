@@ -1,6 +1,6 @@
 # Sistema de Login usando Poetry, Flask e SQLite
 
-> app flask com sistema de login
+> início rápido
 - poetry init -n
 - poetry add flask flask-sqlalchemy flask-login werkzeug
 
